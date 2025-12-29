@@ -5,6 +5,13 @@
     font-family: 'poppins', sans-serif;
 }
 
+.for-message{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-block: 100px;
+}
+
 form{
     width: 90%;
     max-width: 600px;
@@ -14,6 +21,7 @@ form{
     display: flex;
     align-items: center;
     justify-content: center;
+    margin-block: 100px;
 }
 
 .inputs{
