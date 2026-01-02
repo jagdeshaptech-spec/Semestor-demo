@@ -7,11 +7,11 @@
 }
 
 :root {
-    --themecolor: #c44f15;
+    --themecolor: #EE7A3F;
 }
 
 #footer {
-    background-color: var(--themecolor);
+    background-color: #EE7A3F;
     /* border: 3px solid var(--themecolor); */
     display: flex;
     justify-content: space-between;
@@ -30,9 +30,6 @@
 
 .foot li {
     cursor: pointer;
-}
-
-.foot li:hover {
     text-decoration: underline;
 }
 
@@ -69,4 +66,9 @@ img {
     color: white;
     cursor: pointer;
     margin-left: 5px;
+}
+
+.space {
+    height: 1000px;
+    width: 600px;
 }

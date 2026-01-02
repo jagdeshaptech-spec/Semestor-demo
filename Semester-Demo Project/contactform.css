@@ -5,6 +5,44 @@
     font-family: 'poppins', sans-serif;
 }
 
+.main-div {
+  background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
+              url('./Media/hendrik-cornelissen--qrcOR33ErA-unsplash.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center; 
+  text-align: center;
+  color: white;
+  font-family: 'poppins', sans-serif;
+}
+
+.I-line h1 {
+  font-size: 45px;
+  margin-bottom: 10px;
+  font-weight: 500;
+}
+
+.II-line {
+  font-size: 15px;
+}
+
+.II-line a {
+  color: white;
+  text-decoration: none;
+}
+
+.II-line a:hover {
+  color: gray;
+}
+
+.II-line span {
+  margin: 0 10px;
+}
+
 .for-message{
     display: flex;
     align-items: center;
