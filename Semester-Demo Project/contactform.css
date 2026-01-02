@@ -5,6 +5,13 @@
     font-family: 'poppins', sans-serif;
 }
 
+.for-message{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-block: 100px;
+}
+
 .main-div {
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)), 
               url('./Media/hendrik-cornelissen--qrcOR33ErA-unsplash.jpg');
